@@ -38,6 +38,8 @@ The AUROC confidence interval was estimated by resampling at the patient identif
 
 ![HYGD model scores by reference label, with the original threshold marked](puntuaciones_HYGD.png)
 
+[View the HYGD external evaluation notebook](hygd_external_evaluation.ipynb)
+
 ## Limitations
 
 - **Reference labels.** “Positive” refers to the dataset annotation. This project evaluated image prioritization for professional review.
