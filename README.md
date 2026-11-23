@@ -36,9 +36,7 @@ The threshold was **0.897**, rounded here for readability. It was selected on th
 
 The AUROC confidence interval was estimated by resampling at the patient identifier level.
 
-<!-- After uploading the histogram, uncomment the line below and check the file path.
-![HYGD model score distributions by reference label, with the original threshold marked](figures/hygd-score-distribution.png)
--->
+![HYGD model scores by reference label, with the original threshold marked](puntuaciones_HYGD.png)
 
 ## Limitations
 
